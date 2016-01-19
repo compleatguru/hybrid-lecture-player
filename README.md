@@ -226,10 +226,7 @@ Hybrid Lecture Player software is licenced as GNU Affero General Public Licenseh
 Design Creative Commons Attribution-ShareAlike 3.0 Germany (CC BY-SA 3.0 DE) http://creativecommons.org/licenses/by-sa/3.0/de/deed.en   
 All software dependencies are copyright to their respective owners. All fonts are copyright to their respective owners.
 
-### About the Hybrid Publishing Consortium
+### About the Hybrid Publishing Group
 
-This Case Study is a project by the Hybrid Publishing Consortium (HPC), a research project with a mission to support the development of open source software for public infrastructures in publishing. HPC pursues a model of digital interoperability, frameworks as opposed to platforms, that combines ISO standards with experimental approaches to dynamic publishing, using existing Open Source expert projects.  
-HPC develops concepts for new forms of access to information, and specializes within their research in Museums, Libraries and Archives publishing.  
-
-Funded by the EU major project Innovation Incubator Lüneburg.  
-Hybrid Publishng Consortium develops open source software infrastructures for publishing and is part of the Hybrid Publishing Lab at the Centre for Digital Cultures, Leuphana University, Lüneburg, Germany and is funded by the European Union and the German federal State of Lower Saxony.
+This Case Study is a project by the Hybrid Publishing Group (HPG), a research project with a mission to support the development of open source software for public infrastructures in publishing. HPG pursues a model of digital interoperability, frameworks as opposed to platforms, that combines ISO standards with experimental approaches to dynamic publishing, using existing Open Source expert projects.  
+HPG develops concepts for new forms of access to information, and specializes within their research in Museums, Libraries and Archives publishing. Hybrid Publishng Gonsortium develops open source software infrastructures for publishing.
