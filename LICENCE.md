@@ -1,6 +1,6 @@
 # Hybrid Lecture Player
 
-For creating broswer base publications for the web, local display and media facades using media sychronisation and deep linking for playback in a web browser using HTML5.
+For creating browser base publications for the web, local display and media facades using media sychronisation and deep linking for playback in a web browser using HTML5.
 
 ## Copyright 2015 The Hybrid Publishing Group
 
